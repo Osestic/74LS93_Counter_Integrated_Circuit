@@ -1,5 +1,5 @@
 # 74LS93 Counter Integrated Circuit
-![MiDOK_logo](https://github.com/Osestic/MiDOK_Co-Pilot_App/assets/42704298/a128659c-75d8-4185-92fc-2184a07fc05c)
+
 ![Screenshot 2024-07-05 141345](https://github.com/Osestic/Counter_74LS93/assets/42704298/05da086d-2aba-49e1-8fb0-91285aa36793)
 
 ![Screenshot 2024-07-05 141559](https://github.com/Osestic/Counter_74LS93/assets/42704298/c15d0f15-e87a-4226-8d87-023d36e0c7f3)
