@@ -4,6 +4,8 @@
 
 ![Screenshot 2024-07-05 141559](https://github.com/Osestic/Counter_74LS93/assets/42704298/c15d0f15-e87a-4226-8d87-023d36e0c7f3)
 
+
+
 ## Description
 
 In today's healthcare landscape, we're facing unprecedented challenges. 
@@ -35,6 +37,7 @@ By bridging the gap between these two worlds, we aim to provide a solution that 
 
 <img src="https://github.com/Osestic/Counter_74LS93/assets/42704298/5474b680-fc7a-431d-9d29-9a068a40c874" width="100"/>
 
+<img src="https://github.com/Osestic/Counter_74LS93/assets/42704298/4b60b35b-471f-4133-b8e4-c176175c3dec" width="100"/>
 
 
 
