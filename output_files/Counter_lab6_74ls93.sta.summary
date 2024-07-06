@@ -1,0 +1,325 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'InvCp0'
+Slack : -3.408
+TNS   : -3.408
+
+Type  : Slow 1100mV 85C Model Setup 'JK_flipflop:mod2_counter|Q'
+Slack : -2.178
+TNS   : -2.178
+
+Type  : Slow 1100mV 85C Model Setup 'JK_flipflop:mod8_counter1|Q'
+Slack : -2.115
+TNS   : -2.115
+
+Type  : Slow 1100mV 85C Model Setup 'JK_flipflop:mod8_counter2|Q'
+Slack : -1.360
+TNS   : -1.360
+
+Type  : Slow 1100mV 85C Model Hold 'JK_flipflop:mod8_counter2|Q'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.557
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'JK_flipflop:mod2_counter|Q'
+Slack : 0.619
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'InvCp0'
+Slack : 1.253
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'JK_flipflop:mod8_counter2|Q'
+Slack : -5.504
+TNS   : -5.504
+
+Type  : Slow 1100mV 85C Model Recovery 'JK_flipflop:mod8_counter1|Q'
+Slack : -3.535
+TNS   : -3.535
+
+Type  : Slow 1100mV 85C Model Recovery 'InvCp0'
+Slack : -3.471
+TNS   : -3.471
+
+Type  : Slow 1100mV 85C Model Recovery 'JK_flipflop:mod2_counter|Q'
+Slack : -3.373
+TNS   : -3.373
+
+Type  : Slow 1100mV 85C Model Removal 'InvCp0'
+Slack : 1.239
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'JK_flipflop:mod2_counter|Q'
+Slack : 1.829
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'JK_flipflop:mod8_counter1|Q'
+Slack : 2.018
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'JK_flipflop:mod8_counter2|Q'
+Slack : 3.858
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'JK_flipflop:mod8_counter1|Q'
+Slack : -0.724
+TNS   : -1.288
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'JK_flipflop:mod8_counter2|Q'
+Slack : -0.724
+TNS   : -1.270
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'InvCp0'
+Slack : -0.724
+TNS   : -1.208
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'JK_flipflop:mod2_counter|Q'
+Slack : -0.724
+TNS   : -1.197
+
+Type  : Slow 1100mV 0C Model Setup 'InvCp0'
+Slack : -3.079
+TNS   : -3.079
+
+Type  : Slow 1100mV 0C Model Setup 'JK_flipflop:mod8_counter1|Q'
+Slack : -2.194
+TNS   : -2.194
+
+Type  : Slow 1100mV 0C Model Setup 'JK_flipflop:mod2_counter|Q'
+Slack : -2.074
+TNS   : -2.074
+
+Type  : Slow 1100mV 0C Model Setup 'JK_flipflop:mod8_counter2|Q'
+Slack : -1.279
+TNS   : -1.279
+
+Type  : Slow 1100mV 0C Model Hold 'JK_flipflop:mod2_counter|Q'
+Slack : 0.527
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'JK_flipflop:mod8_counter2|Q'
+Slack : 0.584
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.710
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'InvCp0'
+Slack : 0.970
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'JK_flipflop:mod8_counter2|Q'
+Slack : -5.311
+TNS   : -5.311
+
+Type  : Slow 1100mV 0C Model Recovery 'JK_flipflop:mod8_counter1|Q'
+Slack : -3.302
+TNS   : -3.302
+
+Type  : Slow 1100mV 0C Model Recovery 'InvCp0'
+Slack : -3.174
+TNS   : -3.174
+
+Type  : Slow 1100mV 0C Model Recovery 'JK_flipflop:mod2_counter|Q'
+Slack : -3.062
+TNS   : -3.062
+
+Type  : Slow 1100mV 0C Model Removal 'InvCp0'
+Slack : 0.938
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'JK_flipflop:mod2_counter|Q'
+Slack : 1.791
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'JK_flipflop:mod8_counter1|Q'
+Slack : 2.064
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'JK_flipflop:mod8_counter2|Q'
+Slack : 3.738
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'JK_flipflop:mod8_counter1|Q'
+Slack : -0.724
+TNS   : -1.188
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'JK_flipflop:mod8_counter2|Q'
+Slack : -0.724
+TNS   : -1.149
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'InvCp0'
+Slack : -0.724
+TNS   : -1.113
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'JK_flipflop:mod2_counter|Q'
+Slack : -0.724
+TNS   : -1.110
+
+Type  : Fast 1100mV 85C Model Setup 'InvCp0'
+Slack : -1.640
+TNS   : -1.640
+
+Type  : Fast 1100mV 85C Model Setup 'JK_flipflop:mod2_counter|Q'
+Slack : -0.936
+TNS   : -0.936
+
+Type  : Fast 1100mV 85C Model Setup 'JK_flipflop:mod8_counter1|Q'
+Slack : -0.753
+TNS   : -0.753
+
+Type  : Fast 1100mV 85C Model Setup 'JK_flipflop:mod8_counter2|Q'
+Slack : -0.151
+TNS   : -0.151
+
+Type  : Fast 1100mV 85C Model Hold 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'JK_flipflop:mod2_counter|Q'
+Slack : 0.091
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'JK_flipflop:mod8_counter2|Q'
+Slack : 0.265
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'InvCp0'
+Slack : 0.656
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'JK_flipflop:mod8_counter2|Q'
+Slack : -2.761
+TNS   : -2.761
+
+Type  : Fast 1100mV 85C Model Recovery 'InvCp0'
+Slack : -1.527
+TNS   : -1.527
+
+Type  : Fast 1100mV 85C Model Recovery 'JK_flipflop:mod8_counter1|Q'
+Slack : -1.526
+TNS   : -1.526
+
+Type  : Fast 1100mV 85C Model Recovery 'JK_flipflop:mod2_counter|Q'
+Slack : -1.454
+TNS   : -1.454
+
+Type  : Fast 1100mV 85C Model Removal 'InvCp0'
+Slack : 0.083
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'JK_flipflop:mod2_counter|Q'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.589
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'JK_flipflop:mod8_counter2|Q'
+Slack : 1.746
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'InvCp0'
+Slack : -0.185
+TNS   : -0.185
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.092
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'JK_flipflop:mod8_counter2|Q'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'JK_flipflop:mod2_counter|Q'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'InvCp0'
+Slack : -1.223
+TNS   : -1.223
+
+Type  : Fast 1100mV 0C Model Setup 'JK_flipflop:mod2_counter|Q'
+Slack : -0.839
+TNS   : -0.839
+
+Type  : Fast 1100mV 0C Model Setup 'JK_flipflop:mod8_counter1|Q'
+Slack : -0.709
+TNS   : -0.709
+
+Type  : Fast 1100mV 0C Model Setup 'JK_flipflop:mod8_counter2|Q'
+Slack : -0.095
+TNS   : -0.095
+
+Type  : Fast 1100mV 0C Model Hold 'JK_flipflop:mod8_counter1|Q'
+Slack : -0.005
+TNS   : -0.005
+
+Type  : Fast 1100mV 0C Model Hold 'JK_flipflop:mod2_counter|Q'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'JK_flipflop:mod8_counter2|Q'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'InvCp0'
+Slack : 0.315
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'JK_flipflop:mod8_counter2|Q'
+Slack : -2.328
+TNS   : -2.328
+
+Type  : Fast 1100mV 0C Model Recovery 'JK_flipflop:mod8_counter1|Q'
+Slack : -1.341
+TNS   : -1.341
+
+Type  : Fast 1100mV 0C Model Recovery 'JK_flipflop:mod2_counter|Q'
+Slack : -1.265
+TNS   : -1.265
+
+Type  : Fast 1100mV 0C Model Recovery 'InvCp0'
+Slack : -1.061
+TNS   : -1.061
+
+Type  : Fast 1100mV 0C Model Removal 'InvCp0'
+Slack : -0.132
+TNS   : -0.132
+
+Type  : Fast 1100mV 0C Model Removal 'JK_flipflop:mod2_counter|Q'
+Slack : 0.414
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.499
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'JK_flipflop:mod8_counter2|Q'
+Slack : 1.559
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'InvCp0'
+Slack : -0.231
+TNS   : -0.231
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'JK_flipflop:mod8_counter1|Q'
+Slack : 0.112
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'JK_flipflop:mod8_counter2|Q'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'JK_flipflop:mod2_counter|Q'
+Slack : 0.160
+TNS   : 0.000
+
+------------------------------------------------------------
