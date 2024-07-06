@@ -30,10 +30,10 @@ By bridging the gap between these two worlds, we aim to provide a solution that 
 
 ## Built With
 
-<img src="https://github.com/Osestic/Counter_74LS93/assets/42704298/b0bd6bc0-3b4e-4e13-84a0-2e33f1cf34ee" width="300"/>
+<img src="https://github.com/Osestic/Counter_74LS93/assets/42704298/b0bd6bc0-3b4e-4e13-84a0-2e33f1cf34ee" width="100"/>
 
 
-<img src="https://github.com/Osestic/Counter_74LS93/assets/42704298/5474b680-fc7a-431d-9d29-9a068a40c874" width="300"/>
+<img src="https://github.com/Osestic/Counter_74LS93/assets/42704298/5474b680-fc7a-431d-9d29-9a068a40c874" width="100"/>
 
 
 
