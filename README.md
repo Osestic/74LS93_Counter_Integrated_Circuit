@@ -61,7 +61,6 @@ This project is licensed under the “Commons Clause” License Condition v1.0. 
 ## How to Contribute
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 ## Recommendations
 - Incorporate the Counter 74LS93 in other digital logic and electronic designs and see how well it performs
 - Allow other persons to use and test the design
