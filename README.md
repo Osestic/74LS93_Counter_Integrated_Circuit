@@ -29,21 +29,24 @@ Clone this repository and run the main project file, ```Counter_lab6_74ls93.qpf`
 
 
 ## Usage
-Run the applications and provide any relevant information as you click through the app and interact with it.
+Run simulations on the design based on inputs by  following these steps.
+1. Run the project file: ```Counter_lab6_74ls93.qpf```
+2. Go to File >> New
+3. Choose the University program under Verification/debugging files
+   ![image](https://github.com/Osestic/74LS93_Counter_Integrated_Circuit/assets/42704298/a8b8c909-c8fc-4ac6-83ba-5d56f0bc776b)
+4. Go to Edit >> Insert >> Insert Node or bus >> Node Finder >> List
+5. Make sure to press okay when it appears after completing the steps
+6. Choose the input states from the selection menu
+7. Run the type of simulation you want from the options under Simulation
+
+You can see some of the simulations I performed in ```simulation\qsim```. They end with the extensions ".vwf".
+The simulations should look something like the image below.
+![image](https://github.com/Osestic/74LS93_Counter_Integrated_Circuit/assets/42704298/dfed01ed-7550-47cf-aab2-9080b603212b)
 
 
 
 
-  
-### Note
-- The AI Python API response time is not as quick as the actual ChatGPT application
-- It can take 10 - 60 seconds or more depending on the length/number of tokens of text sent to it
-- Not all the buttons are functional, the demo shows those that work
 
-  
-## Authors
-This project was a result of the collaborative effort of the following groups of persons and myself:
-1. Oriekaose Chukwuyem Agholor - Hardware Design Engineer [https://github.com/Osestic]
 
 
 ## License
@@ -55,7 +58,7 @@ This project is licensed under the “Commons Clause” License Condition v1.0. 
 
 
 ## Recommendations
-- Incorporate the Counter 74LS93 in other digital logic and electronic design and see how well it does
+- Incorporate the Counter 74LS93 in other digital logic and electronic designs and see how well it performs
 - Allow other persons to use and test the design
 - Act on the feedback accordingly
 
