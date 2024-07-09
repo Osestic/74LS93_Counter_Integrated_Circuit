@@ -33,7 +33,7 @@ After running the project file, click on RTL viewer as shown in the image below 
 
 ![image](https://github.com/Osestic/74LS93_Counter_Integrated_Circuit/assets/42704298/3a852e9b-5621-47dd-86cf-41a77100b2eb)
 
-"""Simulations"""
+### Simulations ###
 Run simulations on the design based on inputs by  following these steps.
 1. Run the project file: ```Counter_lab6_74ls93.qpf```
 2. Go to File >> New
