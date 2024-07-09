@@ -25,7 +25,7 @@ go through a defined sequence of states upon the application of input impulses.
 
 
 ## Installation
-Clone this repository and run
+Clone this repository and run the main project file, ```Counter_lab6_74ls93.qpf```, with the Quartus Prime software.
 
 
 ## Usage
