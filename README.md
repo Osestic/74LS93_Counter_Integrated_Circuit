@@ -8,27 +8,9 @@
 
 ## Description
 
-In today's healthcare landscape, we're facing unprecedented challenges. 
-The nursing shortage and an alarming rise in professional burnout have put strains on our healthcare system. 
-Our team is proud to present MiDOK, an innovative AI-powered diagnostic co-pilot application designed specifically to support and enhance the capabilities of healthcare professionals and individuals training to join the healthcare field.
-
-MiDOK utilizes a unique AI-prompting mechanism.
-Through a series of button-based selections and checkboxes, healthcare professionals can narrow down a vast spectrum of medical conditions, receiving targeted lists of potential diagnoses. 
-This precision ensures that the suggestions offered are both relevant and accurate.
-
-It's important to understand that MiDOK isn't intended to replace the expertise of our doctors and nurses. 
-Instead, it offers a supplementary tool to aid in the diagnosis process. 
-By presenting an array of potential diagnoses based on the input data, MiDOK gives doctors more information.
-We also understand the importance of accessibility in today's fast-paced world. 
-That's why we've made MiDOK available across various platforms. We have the app for both Apple and Android devices as well as the web, making MiDOK readily available at your fingertips.
-
-Beyond MiDOK’s healthcare application, it also emerges as a tool for individuals training to join the healthcare field. MiDOK simplifies the learning curve of healthcare schooling by offering AI-driven insights into potential diagnoses based on patient symptoms and data. 
-Trainees can compare their assessments with MiDOK's suggestions, facilitating a hands-on learning experience that's informative. By simulating real-world scenarios, MiDOK builds confidence in making decisions. 
-It's not just a tool for current healthcare professionals but it's also ensuring a more informed and prepared next generation of medical experts.
-
-In essence, MiDOK represents a harmonious fusion of advanced artificial intelligence technology and medical expertise.
-By bridging the gap between these two worlds, we aim to provide a solution that ensures every patient receives timely, accurate, and efficient care, even in the face of the ongoing challenges in our healthcare system.
-
+Counters such as 74ls93 are sequential circuits which can be designed with JK flip-flops and simulated using the Quartus application. These sequential circuits
+go through a defined sequence of states upon the application of input impulses. 
+​
 
 ## Built With
 
@@ -43,20 +25,7 @@ By bridging the gap between these two worlds, we aim to provide a solution that 
 
 
 ## Installation
-There are three different folders containing the projects for the iOS version and Android version of the app respectively.
-- Ios application: Run the Swift project contained in ```Ios_app/```
-- Android application: Run the Kotlin project contained in ```Android_app/src```
-- Web application: Run the project contained in ```Web_app/```
-
-These applications have to be connected to the AI API for the application. They are currently connected to our own Python API. 
-
-To create yours: 
-- Place the ```start_api.py```, ```MiDOK_Python_AI_API.py``` and the ```requirements.txt``` in your own
-GitHub repository
-- Connect the repository to a free API hosting site like [https://render.com/], which is what we used
-- Replace the link to our API in both the Swift and Kotlin code with your API link provided by the hosting
-- Create an OpenAI account and generate an API key for you to use for the Python API
-- Ensure you use environment variables to prevent your key from being exposed
+Clone this repository and run
 
 
 ## Usage
